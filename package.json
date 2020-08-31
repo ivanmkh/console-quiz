@@ -1,0 +1,12 @@
+{
+    "name": "console-quiz",
+    "version": "1.0.0",
+    "description": "Console Quiz",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "readline-sync": "^1.4.10"
+    }
+}
