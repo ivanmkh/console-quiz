@@ -1,9 +1,6 @@
 
 # Console Quiz
 
-## Gameplay
-
-
 **Description**: This is a quiz app. The idea was to create a simple quiz app that will:
 
     1. run a quize in a console using node.js module;
